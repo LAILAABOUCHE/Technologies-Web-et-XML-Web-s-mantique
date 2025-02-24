@@ -23,7 +23,7 @@
    Du coup ,j'ai mis pour chaque champ que ca soit about me,contacts... ,un lien interne pour cela a chaque fois l'utilisateur peut consuler efficacement.
    j'ai essayé de les mettre dans une liste non ordonnée et avec un id ,pour que je puisse différencier entre chaque liste,apparemment,il exste plusieurs liste non ordonnée,d'ailleurs les listes et surtout les listes non ordonnées sont lprmis les plus types de structures plus utilisés ensuit j'ai appliqué le style avec confort comme indiqué dans la capture suivante;
 
-   
+
    ![style](laila.png)
    pour le style j'ai essayé de faire les choses a simplicité,comme déja indiqué mon code est celui qui n'a pas de commentaires.
 
@@ -40,6 +40,25 @@
 
    aussi ,pour styler deplus le paragraphe j'ai mis le suivant;
    ![alt text](Aboutme.png)
+   ![alt text](div1.png)
+   c'est pour la scsection des skills ou j'ai essayé de highliting les plus importants titres,
+   aussi j'ai mais la classe skills et l'id c'est juste pour que je puisse controleselon mes besoins.
+   le style :
+
+
+
+   ![alt text](skills.png)
+   Et comme ca j'ai continué tous les parties pour que je puisse enfin d'avoir ce portfolio:
+
+
+  ![alt text](1.png)
+  ![alt text](2.png)
+  ![alt text](3.png)
+  ![alt text]('.png)
+
+
+
+
 
 
 
