@@ -1,0 +1,103 @@
+ 
+ #li {
+    list-style: none;        /* Supprime les puces par défaut */
+    margin: 5px;
+    padding: 5px;
+    display: flex;           /* Les éléments seront sur la même ligne */
+    justify-content: end; /* Centrer la liste horizontalement */
+    background-color: #f0f0f0; /* Couleur de fond  */
+     list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: x-large;
+    box-shadow: 0 -2px  rgba(228, 208, 208, 0.1); /* Ombre discrète*/
+    gap: 20px;  
+    text-transform: capitalize;    
+    transition: background-color 0.3s; /* Transition sur la couleur de fond */
+
+
+}
+img {
+    border: 2px solid #ccc;         /* Une bordure grise */
+    border-radius: 10px;              /* Des coins arrondis */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5); /* Une ombre portée */
+    width: 300px;                    /* Largeur fixe */
+    height: auto;   
+                     /* Hauteur proportionnelle */
+
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif; 
+    cursor:pointer;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    
+  }
+  #Aboutme{
+    background-color: #b7c1c5;  
+    color: white; 
+    border-radius: 6px;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+
+
+  }
+  .about {
+    display: flex;
+    align-items: center; /* Aligne verticalement */
+    gap: 20px; /* Ajoute un espace entre l'image et le texte */
+    background-color: #aaffee; /* Couleur de fond */
+    padding: 20px;
+}
+#parcours{
+    list-style: none; 
+   
+    padding: 0;
+    margin: 0;
+    font-size: x-large;
+    gap: 20px;  
+    text-transform: capitalize;  
+    border-radius: 10px;
+
+}
+h2{
+
+  font-size: 24px;
+  text-align: center;
+}
+#projects{
+
+  list-style: none; 
+  padding: 0;
+  margin: 0;
+  font-size: x-large;
+  gap: 20px;  
+   border-radius: 10px;
+
+   
+}
+#skills{
+  list-style: none; 
+  padding: 0;
+  margin: 0;
+  font-size: x-large;
+  gap: 20px;  
+   border-radius: 10px;
+
+
+}
+#contacts{
+  list-style: none; 
+  padding: 0;
+  margin: 0;
+  font-size: x-large;
+  gap: 20px;  
+   border-radius: 10px;
+
+}
+  
+
